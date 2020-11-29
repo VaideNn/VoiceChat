@@ -18,12 +18,12 @@ buildscript {
 apply plugin: 'forge'
 //STUFF THAT MATTERS! >>>>>>>>>
 
-version = "1.7.10-0.6.1"
+version = "1.16.3-0.6.1"
 group= "net.gliby"
 archivesBaseName = "GlibysVC"
 
 minecraft {
-    version = "1.7.10-10.13.2.1291"
+    version = "1.16.3-34.1.42"
     runDir = "eclipse"
 }
 
